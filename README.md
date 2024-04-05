@@ -1,0 +1,2 @@
+# NaturalHazards
+A JavaScript project
